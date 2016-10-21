@@ -1,0 +1,22 @@
+/* PLAYERS */
+David
+Adam
+Eve
+Bob
+Alice
+/* GAMES PLAYED */
+G01 David* Adam 10
+G02 Eve Adam* 10
+G03 Eve Adam 10
+G04 David* Bob 20
+G05 David* Alice 20
+G06 David* Eve 20
+G07 Eve Adam* 40
+G08 Bob Adam* 40
+G09 Alice Adam 40
+G10 David Adam* 80
+G11 David* Adam 80
+G12 David Adam 80
+G13 Bob* Adam 160
+G14 Bob Adam* 160
+G15 Bob* Adam 160
